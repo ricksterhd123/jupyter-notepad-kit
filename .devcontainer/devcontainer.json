@@ -1,0 +1,16 @@
+{
+	"name": "notebooks",
+	"build": {
+		"target": "development",
+		"context": "..",
+		"dockerfile": "../Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter",
+				"ms-python.python"
+			]
+		}
+	}
+}
