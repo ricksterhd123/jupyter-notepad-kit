@@ -12,9 +12,10 @@ Open with devcontainer client such as vscode
 * install jupyterlab on vscode
 
 ## Release
-## Export to HTML5
+
+### Export to HTML5
 To export your notes to HTML5, inside devcontainer run `bash bin/builder.sh` or
 from your host machine run `bash build.sh` to run the build script in docker.
 
-## nbviewer
+### nbviewer
 https://nbviewer.org/github/ricksterhd123/jupyter-notepad-kit/blob/main/notes/article1.ipynb
