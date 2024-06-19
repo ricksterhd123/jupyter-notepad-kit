@@ -19,3 +19,6 @@ from your host machine run `bash build.sh` to run the build script in docker.
 
 ### nbviewer
 https://nbviewer.org/github/ricksterhd123/jupyter-notepad-kit/blob/main/notes/article1.ipynb
+
+### jupyterlite / GitHub pages
+See also https://github.com/jupyterlite/xeus-python-demo
